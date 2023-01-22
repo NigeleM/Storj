@@ -1,0 +1,6 @@
+APIKey =API KEY=
+satelliteAddress =satelliteAddress=
+bucketName       =bucketName=
+rootPassphrase   =rootPassphrase=
+localFILEorDIR =localFILEorDIR=
+RemoteFileorDIR =localFILEorDIR= 
